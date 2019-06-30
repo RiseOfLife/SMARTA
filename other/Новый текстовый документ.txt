@@ -1,0 +1,22 @@
+ "iamToken": "CggaATEVAgAAABKABGGj7ruyfDEbOnLi60nixBaDGnUBSgEEkoWOaiYvVv9bDFV8NPzELpAcy9ItIzIFhOU-hujIqdoJsoHjaZdIAVN9TOxczSG7AXYvOTlQbJ2_el_f_yDQybbuBXPiAT7BqzDYj40oESZE00Mc5RnJZBRWc0UkqJXBwTra01kqJPtx8Xnm8TxsEKyxbbwWhQlv4RMYfQP79BONELJ613zQ78kp3HQwpFs8Cfr5GE7Xj8GBYP_wB-4k1BE6Ql1lDAXNDU_x6x186MLkSPqqwfT5jeAj89aqTgYm1a08ugi2ecFLvmdpjPbvMUp7Ol4N4qcnFqfwOidA9YR9dGaY-fvWo6wJ8WLXN4plWI9M-uFNWbQ_fJmSyVn92ESQoOo1WwZ2IJwYFaQeyRGW7Hgu20seu-sSP1iH3yBxPUs3mtIrNGxlmLm9OEB4_0YS3jBfcfjYK3duscPiLj7774tUSkOzKDPghQVEnzNCl8zwZDeh2Fq4qFx9LhTbaPxNCQX03cLGp4pVb-zKiyExKN3Wpu9m2_IwYNY0iJrMopNQkmUHRuZYHk-pzGa6lhui8biLXlxfJEbDfjN4f1yswX6lO2vRCIySSiZabiJ3rCQ2vhfv4kRvuPNsfES4rijn9A1in6cjHWSj0EJNbt6guU8BukkXJyF5MutPsn9tOiUfxN-6tDeeGmgKIDZhODExYjQ0NGQzNzQxYmVhMjM3NWMxNDRlNWM3NTAzEJ7s4OgFGN694-gFIiYKFGFqZW05ZmhqMjIyOWxrcTdkaTAyEg5hbmRyM3kuc29yb2tpbloAMAI4AUoIGgExFQIAAABQASD3BA",
+ "expiresAt": "2019-06-30T16:10:06.222841Z"
+
+vegfree.fvds.ru
+p32a32yiJ0Xz
+
+
+default-ru-central1-c	
+b0camt8hg00nfk9o7vq8
+Auto-created default subnet for zone ru-central1-c	10.130.0.0/24	—	
+Active
+	ru-central1-c	
+default-ru-central1-b	
+e2l7bhplmr7q223khu96
+Auto-created default subnet for zone ru-central1-b	10.129.0.0/24	—	
+Active
+	ru-central1-b	
+default-ru-central1-a	
+e9bfg18oinfsr3upm590
+Auto-created default subnet for zone ru-central1-a	10.128.0.0/24	—	
+Active
+	ru-central1-a	
